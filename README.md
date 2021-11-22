@@ -1,4 +1,5 @@
-# Sync RTC clock with NTP 
+# Relay Scheduler with RTC Clock Sync with the NTP Protocol on ESP8266
+#### by Anjum9694
 
 ## Libs
 
